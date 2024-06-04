@@ -31,8 +31,8 @@ This is a movie library web application with user authentication, movie search u
 ### Set Up Environment Variables:
 #### Create a .env file in the backend directory
 #### -- MONGODB_URI=<your_mongodb_connection_string>
-#### -- JWT_SECRET=<your-jwt-secret>
-#### -- OMDB_API_KEY=<your-omdb-api-key>
+#### -- JWT_SECRET<your_jwt_secret_key>
+#### -- OMDB_API_KEY=<your_api_key>
 
 ### Start the Backend Server:
 #### -- npm start
